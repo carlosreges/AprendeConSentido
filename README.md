@@ -1,4 +1,4 @@
-# AprendeConSentido
+# Aprender con Sentido
 
 Este sitio web está construido como una página estática de presentación para el proyecto educativo **Aprender con Sentido**.
 
